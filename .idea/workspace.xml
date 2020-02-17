@@ -7,55 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20708bdf-b6ca-499e-8a92-7816542a2387" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/eureka.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main/java/com/yhs/ApplicationClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main/java/com/yhs/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/target/classes/com/yhs/ApplicationClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/target/classes/com/yhs/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/src/main/java/com/yhs/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/target/classes/com/yhs/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/feign.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/main/java/com/yhs/ApplicationFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/main/java/com/yhs/controller/ApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/main/java/com/yhs/service/ApiService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/main/java/com/yhs/service/ApiServiceError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/test/java/TestDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/classes/com/yhs/ApplicationFeign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/classes/com/yhs/controller/ApiController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/classes/com/yhs/service/ApiService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/classes/com/yhs/service/ApiServiceError.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/test-classes/TestDB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/gateway.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/yhs/ApplicationGateWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/yhs/Filter/ApiGlobalFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/yhs/Filter/JsonExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/yhs/conf/ErrorHandlerConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/yhs/ApplicationGateWay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/yhs/Filter/ApiGlobalFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/yhs/Filter/JsonExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/yhs/conf/ErrorHandlerConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/eureka/eureka.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/eurekaserver/target/" />
@@ -96,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/feign/src/main/java/com/yhs/controller/ApiController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/feign/src/main/java/com/yhs/ApplicationFeign.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="323">
               <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -230,6 +182,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,8 +245,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -402,8 +354,17 @@
       <workItem from="1581557948398" duration="317000" />
       <workItem from="1581560338784" duration="6775000" />
       <workItem from="1581645856321" duration="638000" />
-      <workItem from="1581666931225" duration="3190000" />
+      <workItem from="1581666931225" duration="3765000" />
+      <workItem from="1581823799783" duration="784000" />
     </task>
+    <task id="LOCAL-00001" summary="springCloud学习">
+      <created>1581689365787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581689365787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -418,13 +379,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10920000" />
+    <option name="totallyTimeSpent" value="12279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21672772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -440,13 +400,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4993895" visible="true" weight="0.4020408" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -461,6 +421,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springCloud学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="springCloud学习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/eurekaserver/src/main/java/com/yhs/Application.java">
@@ -632,7 +596,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/feign/src/main/java/com/yhs/ApplicationFeign.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
+        <state relative-caret-position="323">
           <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -643,7 +607,7 @@
     <entry file="file://$PROJECT_DIR$/feign/src/main/java/com/yhs/controller/ApiController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
